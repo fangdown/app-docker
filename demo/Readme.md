@@ -5,5 +5,5 @@
 ```
 npm i
 docker build -t docker_demo .
-docker run -d -p 9000:3000 docker_demo
+docker run -d -p 3000:3000 docker_demo
 ```
